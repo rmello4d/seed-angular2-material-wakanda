@@ -10,7 +10,7 @@ A fairly complete seed from Wakanda that uses Angular2 and Material, more than 2
 4. This is all you need to add a new seed to your Wakanda projects, then, when creating your next project, just choose the newly web template 'Angular 2 Material':
 <img src="https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img1.png" alt="alt text">
 
-5. After creating your project, just Run the project by clicking 'Run Page':
+5. After creating your project, a project scafolding is available for you and you can just Run the project by clicking 'Run Page':
 <img src="https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img2.png" alt="alt text" width="300">
 
 6. IMPORTANT, you have to Wait for all libraries to be charged in the npm install (which will vary based on your internet connection, it can take from few seconds to several minutes). Once you have all the libraries, you should see the following page: 
