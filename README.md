@@ -23,4 +23,5 @@ A fairly complete seed from Wakanda that uses Angular2 and Material, more than 2
 <img src="https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img6.png" alt="alt text" width="700">
 
 9. Now... the fun, check the source code at /src folder.. and it will be your turn to hook your project's data and build an awesome Wakanda + Material + Angular 2 website 
+
 <img src="https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img3.png" alt="alt text" width="400">
