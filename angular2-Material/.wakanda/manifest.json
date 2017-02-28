@@ -1,0 +1,8 @@
+{
+  "name": "Angular2 Material",
+  "description": "The webpack template variant for Angular 2. <a href='https://angular.io/' target='_blank'>Learn more</a>",
+  "tags": [
+    "Angular 2",
+    "Webpack"
+  ]
+}
