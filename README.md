@@ -13,13 +13,13 @@ A fairly complete seed from Wakanda that uses Angular2 and Material, more than 2
 5. After creating your project, a project scafolding is available for you and you can just Run the project by clicking 'Run Page':
 <img src="https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img2.png" alt="alt text" width="300">
 
-6. IMPORTANT, you have to Wait for all libraries to be charged in the npm install (which will vary based on your internet connection, it can take from few seconds to several minutes). Once you have all the libraries, you should see the following page: 
+6. IMPORTANT, when you 'Run Page' for the first time, you have to wait for all libraries to be charged in the npm install (this installation time will vary based on your internet connection, it can take from few seconds to several minutes). Once you have all the libraries downloaded, the Wakanda Studio will automatically load the first page for you and you should see the following: 
 <img src="https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img4.png" alt="alt text" width="700">
 
-7. You are done and you can start having fun by clicking on the left menu and checking all the widgets available  
+7. You are almost done ;) and you can start having fun by clicking on the left menu and checking all the widgets available  
 <img src="https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img5.png" alt="alt text" width="700">
 
-8. Go ahead, click on any of the widgets to see the result in Angular Material !
+8. Go ahead and explore the solution by clicking on any of the widgets to see the result in Angular Material !
 <img src="https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img6.png" alt="alt text" width="700">
 
 9. Now... the fun, check the source code at /src folder.. and it will be your turn to hook your project's data and build an awesome Wakanda + Material + Angular 2 website 
