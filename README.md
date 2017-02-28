@@ -3,11 +3,12 @@ A fairly complete seed from Wakanda that uses Angular2 and Material, more than 2
 
 1. Download Wakanda at http://www.wakanda.io
 
-2, Download or clone this extension to your computer 
+2, Download or clone this extension to your computer https://github.com/rmello4d/seed-angular2-material-wakanda
 
 3. copy the angular2-Material folder to /Documents/Wakanda/wakanda-extension-templates/web
 
 4. When creating your next project, choose the web template 'Angular 2 Material' 
+[[https://github.com/rmello4d/seed-angular2-material-wakanda/blob/master/img/img1.png]]
 
 5. Run the project as it is and Wakanda will download all the libraries needed 
 
